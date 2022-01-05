@@ -94,3 +94,7 @@ void QLSV::Delete (SV s)
     this->_Length--;
 }
 
+void QLSV::ABC()
+{
+    return "ABC";
+}
